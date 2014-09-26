@@ -8,3 +8,6 @@
 
     `--` is used to discriminate it from a `branch`
 
+## gitignore
+
+* ignore all files end with `.dSYM`
